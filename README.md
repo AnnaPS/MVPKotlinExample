@@ -1,4 +1,4 @@
-"# MVPKotlinExample" 
+# MVPKotlinExample
 Login básico con MVP - Kotlin.
 Comprobaciones mediante patrones de la validez del email y password.
 Uso de Toast personalizados añadiendo la siguiente dependencia a gradle
